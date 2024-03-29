@@ -1,0 +1,7 @@
+{
+    "name": "Rem bot",
+    "author": "M.fajri",
+    "prefix": "!", 
+    "timezone": "Asia/Jakarta",
+    "groups": true
+}
